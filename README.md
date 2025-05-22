@@ -1,9 +1,7 @@
-# Jalali Date Picker Widget (ویجت تاریخ‌گیر شمسی)
-
+# Jalali Date Picker Widget (ویجت تاریخ‌ گیر شمسی)
 A lightweight Persian (Jalali / Shamsi) date picker widget built with HTML, CSS, JavaScript, jQuery, and PersianDate library.
 
 ## 🌟 Features
-
 - Persian (Shamsi) calendar
 - Simple and lightweight
 - jQuery and PersianDate-based
@@ -11,7 +9,6 @@ A lightweight Persian (Jalali / Shamsi) date picker widget built with HTML, CSS,
 - Easy to integrate in any project
 
 ## 📦 Usage
-
 Include the following:
 
 ```html
@@ -23,11 +20,11 @@ Include the following:
 ````
 
 ## 🧪 Demo
-
 [Online Demo](https://sobhan-srza.github.io/jalali-datepicker-widget/) *(you can deploy on GitHub Pages or CodePen and link here)*
 
----
 
 ## 📄 License
-
 [MIT](./LICENSE)
+
+## 🚀 Usage
+Clone or download the project and open `index.html` in your browser.
