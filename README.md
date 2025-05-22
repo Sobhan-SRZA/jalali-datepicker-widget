@@ -24,10 +24,10 @@ Include the following:
 
 ## 🧪 Demo
 
-[Online Demo](#) *(you can deploy on GitHub Pages or CodePen and link here)*
+[Online Demo](https://sobhan-srza.github.io/jalali-datepicker-widget/) *(you can deploy on GitHub Pages or CodePen and link here)*
 
 ---
 
 ## 📄 License
 
-MIT
+[MIT](./LICENSE)
