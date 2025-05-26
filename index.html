@@ -38,11 +38,7 @@
             $('#date-input').persianDatepicker({
                 initialValue: false,
                 format: 'YYYY/MM/DD',
-                calendar: {
-                    persian: {
-                        locale: 'fa'
-                    }
-                }
+                calendar: { persian: { leapYearMode: 'astronomical' } }
             });
         });
     </script>
